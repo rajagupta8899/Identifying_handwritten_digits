@@ -1,0 +1,2 @@
+# Identifying_handwritten_digits
+It is a simple project based on deep learning. It takes 784 pixels of the image into account and then send into 784 neurons present in the input layer and then the feedback to 100 neurons present in the hidden layers. The feedback of hidden layers is sent to 10 neurons present in the output layers. The neuron which has a maximum value in the output layer represents the number. By inserting hidden layers , it increases the efficiency of the system. The score of the project which is achieved is approximately 97%.
